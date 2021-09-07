@@ -14,7 +14,8 @@ Notice:
 
 ## How to Execute
 
-`python main.py`
+1. You Can Input The Command `python main.py` in Command Line/Prompt; 
+2. You Can Also Run The Project in PyCharm Directly. 
 
 ### Project Development Environment, Dependence and Third Party Library
 
