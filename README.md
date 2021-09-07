@@ -24,12 +24,16 @@ It hasn't Executable File Because It is Failed to Be Packed.
 ### Project Python Standard Library Be Primarily Used
 
 1. Tkinter; 
-2. os; 
-3. sys; 
-4. re; 
-5. Traceback; 
-6. Time; 
-7. Datetime. 
+2. Base64; 
+3. re; 
+4. os; 
+5. sys; 
+6. Traceback; 
+7. Time; 
+8. Datetime. 
 
 ### Project Weather Website Data Source: http://www.nmc.cn/
 
+### The Project is a Windows x64 GUI Application. 
+
+#### To be Honest, the Project Can Be Optimized Massively. 
