@@ -6,9 +6,15 @@
 
 Notice: 
 
-The Full Project Includes Directory /resources/ , Which Contains Chrome Webdriver "chromedriver" for Windows x64 and All Images Resources. 
+1. The Full Project Includes Directory /resources/ , Which Contains Chrome Webdriver "chromedriver" for Windows x64 and All Images Resources. 
 
-It hasn't Executable File Because It is Failed to Be Packed. 
+2. The Directory /resources/ and All Resources Will be Created While it is Running. 
+
+3. It hasn't Executable File Because It is Failed to Be Packed. 
+
+## How to Execute
+
+`python main.py`
 
 ### Project Development Environment, Dependence and Third Party Library
 
@@ -37,3 +43,5 @@ It hasn't Executable File Because It is Failed to Be Packed.
 ### The Project is a Windows x64 GUI Application. 
 
 #### To be Honest, the Project Can Be Optimized Massively. 
+
+Thanks for Yuxin Wang, Who Helps to Design UI and Design Images. 
