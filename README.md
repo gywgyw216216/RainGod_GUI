@@ -1,2 +1,3 @@
 # RainGod_GUI
-SCUC Project. 
+
+## 2021 Shanghai College Students Computer Application Ability Competition Project. 
