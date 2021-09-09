@@ -6,9 +6,9 @@
 
 Notice: 
 
-1. The Full Project Includes Directory /resources/ , Which Contains Chrome Webdriver "chromedriver" for Windows x64 and All Images Resources. 
+1. The Full Project Includes Directory ./resources/ , Which Contains Chrome Webdriver "chromedriver" for Windows x64 and All Images Resources. 
 
-2. The Directory /resources/ and All Resources Will be Created While it is Running. 
+2. The Directory ./resources/ and All Resources Will be Created While it is Running. 
 
 3. It hasn't Executable File Because It is Failed to Be Packed. 
 
