@@ -10,12 +10,13 @@ Notice:
 
 2. The Directory ./resources/ and All Resources Will be Created While it is Running. 
 
-3. It hasn't Executable File Because It is Failed to Be Packed. 
+3. It hasn't Executable File Because It is Failed to Be Packed. You Can Try to Pack It by Yourself. 
 
 ## How to Execute
 
 1. You Can Input The Command `python main.py` in Command Line/Prompt; 
 2. You Can Also Run The Project in PyCharm Directly. 
+3. If You Have Packed It Successfully, You Can Execute It Directly by Double-Clicking the Executable File. 
 
 ### Project Development Environment, Dependence and Third Party Library
 
